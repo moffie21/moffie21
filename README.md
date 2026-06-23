@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋
 
 <!--
 **moffie21/moffie21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🛠  Currently trying to troubleshoot some ongoing Error and Warning events on my machine
+- 📚  Currently learning for CCNA exam
+- 🤝  Looking to collaborate and learn more topology practice labs (routing, switching, AD, network monitoring tools, data recovery, the like)
+- 👀  Not gonna lie, looking to make IT-related acquaintances and obtain an IT career

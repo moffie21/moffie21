@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🛠  Currently trying to troubleshoot some ongoing Error and Warning events on my machine
-- 📚  Currently learning for CCNA exam
 - 🤝  Looking to collaborate and learn more topology practice labs (routing, switching, AD, network monitoring tools, data recovery, the like)
 - 👀  Not gonna lie, looking to make IT-related acquaintances and obtain an IT career
